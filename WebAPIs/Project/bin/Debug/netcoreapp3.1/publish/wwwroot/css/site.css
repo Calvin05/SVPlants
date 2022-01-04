@@ -1,0 +1,96 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Bungee+Shade&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Roboto&display=swap');
+
+.no-gutters {
+    margin-right: 0;
+    margin-left: 0;
+}
+#intro {
+    margin-top: 20px;
+   
+    margin-left: 5em;
+}
+    #intro h2 {
+        font-family: 'Black Ops One', cursive;
+        font-size: 2.5em;
+        color: #F0F0F0;
+    }
+#Index {
+    background-image: url("../images/b2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 70vh;
+  
+}
+
+    #Index h1 {
+        font-family: 'Bungee Shade', cursive;
+        width: 50%;
+        margin:0 auto;
+        color: #F0F0F0;
+        font-size: 6em;
+        text-align:center;
+        padding-top:0.2em;
+    }
+
+.title {
+    font-family: 'Bungee Shade', cursive;
+    width: 50%;
+    margin: 0 auto;
+    color: #F0F0F0;
+    font-size: 6em;
+    text-align: center;
+    padding-top: 0.2em;
+}
+
+#indexLogin {
+    text-align:center;
+    background-color: rgba(0, 0, 0, 0.2);
+    transition:0.5s;
+    border-radius:20px;
+}
+
+    #indexLogin:hover {
+        background-color: rgba(0, 0, 0, 0.5);
+    }
+
+#createPage {
+    background-image: url("../images/b2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+label {
+    color: #F0F0F0;
+}
+
+#signupForm {
+    background-color: rgba(0, 0, 0, 0.2);
+    transition: 0.5s;
+    border-radius: 20px;
+}
+    #signupForm:hover {
+        background-color: rgba(0, 0, 0, 0.5);
+    }
+
+#detailPage {
+    background-image: url("../images/b5.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+#detailForm {
+    background-color: rgba(0, 0, 0, 0.2);
+    transition: 0.5s;
+    border-radius: 20px;
+    float:none;
+    margin: 0 auto;
+}
+
+    #detailForm:hover {
+        background-color: rgba(0, 0, 0, 0.5);
+    }
+

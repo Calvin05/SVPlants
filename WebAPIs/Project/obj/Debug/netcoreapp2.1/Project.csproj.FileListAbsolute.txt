@@ -1,0 +1,74 @@
+C:\Users\SONY\Desktop\VietCuongNguyen_JianyuLiu_Lab3\Project\bin\Debug\netcoreapp2.1\Project.deps.json
+C:\Users\SONY\Desktop\VietCuongNguyen_JianyuLiu_Lab3\Project\bin\Debug\netcoreapp2.1\Project.runtimeconfig.json
+C:\Users\SONY\Desktop\VietCuongNguyen_JianyuLiu_Lab3\Project\bin\Debug\netcoreapp2.1\Project.runtimeconfig.dev.json
+C:\Users\SONY\Desktop\VietCuongNguyen_JianyuLiu_Lab3\Project\bin\Debug\netcoreapp2.1\Project.dll
+C:\Users\SONY\Desktop\VietCuongNguyen_JianyuLiu_Lab3\Project\bin\Debug\netcoreapp2.1\Project.pdb
+C:\Users\SONY\Desktop\VietCuongNguyen_JianyuLiu_Lab3\Project\bin\Debug\netcoreapp2.1\Project.Views.dll
+C:\Users\SONY\Desktop\VietCuongNguyen_JianyuLiu_Lab3\Project\bin\Debug\netcoreapp2.1\Project.Views.pdb
+C:\Users\SONY\Desktop\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp2.1\Project.csprojAssemblyReference.cache
+C:\Users\SONY\Desktop\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp2.1\Project.csproj.CoreCompileInputs.cache
+C:\Users\SONY\Desktop\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp2.1\Project.RazorAssemblyInfo.cache
+C:\Users\SONY\Desktop\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp2.1\Project.RazorAssemblyInfo.cs
+C:\Users\SONY\Desktop\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp2.1\Project.AssemblyInfoInputs.cache
+C:\Users\SONY\Desktop\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp2.1\Project.AssemblyInfo.cs
+C:\Users\SONY\Desktop\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp2.1\Project.TagHelpers.input.cache
+C:\Users\SONY\Desktop\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp2.1\Project.TagHelpers.output.cache
+C:\Users\SONY\Desktop\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp2.1\Project.RazorCoreGenerate.cache
+C:\Users\SONY\Desktop\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Create.g.cshtml.cs
+C:\Users\SONY\Desktop\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Home.g.cshtml.cs
+C:\Users\SONY\Desktop\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Index.g.cshtml.cs
+C:\Users\SONY\Desktop\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Login.g.cshtml.cs
+C:\Users\SONY\Desktop\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Upload.g.cshtml.cs
+C:\Users\SONY\Desktop\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\SONY\Desktop\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\SONY\Desktop\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\SONY\Desktop\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\SONY\Desktop\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\SONY\Desktop\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\SONY\Desktop\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp2.1\Project.RazorTargetAssemblyInfo.cache
+C:\Users\SONY\Desktop\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp2.1\Project.RazorTargetAssemblyInfo.cs
+C:\Users\SONY\Desktop\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp2.1\Project.Views.pdb
+C:\Users\SONY\Desktop\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp2.1\Project.dll
+C:\Users\SONY\Desktop\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp2.1\Project.pdb
+C:\Users\SONY\Desktop\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp2.1\Project.csproj.CopyComplete
+C:\Users\SONY\Desktop\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Detail.g.cshtml.cs
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\bin\Debug\netcoreapp2.1\web.config
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\bin\Debug\netcoreapp2.1\aws-beanstalk-tools-defaults.json
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\bin\Debug\netcoreapp2.1\Project.deps.json
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\bin\Debug\netcoreapp2.1\Project.runtimeconfig.json
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\bin\Debug\netcoreapp2.1\Project.runtimeconfig.dev.json
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\bin\Debug\netcoreapp2.1\Project.dll
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\bin\Debug\netcoreapp2.1\Project.pdb
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\bin\Debug\netcoreapp2.1\Project.Views.dll
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\bin\Debug\netcoreapp2.1\Project.Views.pdb
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp2.1\Project.csproj.AssemblyReference.cache
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp2.1\Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp2.1\Project.AssemblyInfoInputs.cache
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp2.1\Project.AssemblyInfo.cs
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp2.1\Project.csproj.CoreCompileInputs.cache
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp2.1\Project.RazorAssemblyInfo.cache
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp2.1\Project.RazorAssemblyInfo.cs
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp2.1\Project.TagHelpers.input.cache
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp2.1\Project.TagHelpers.output.cache
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp2.1\Project.RazorCoreGenerate.cache
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Create.cshtml.g.cs
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Detail.cshtml.g.cs
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Home.cshtml.g.cs
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Index.cshtml.g.cs
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Login.cshtml.g.cs
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Upload.cshtml.g.cs
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp2.1\Project.RazorTargetAssemblyInfo.cache
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp2.1\Project.RazorTargetAssemblyInfo.cs
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp2.1\Project.Views.pdb
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp2.1\Project.dll
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp2.1\Project.pdb
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp2.1\Project.genruntimeconfig.cache
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp2.1\Project.csproj.CopyComplete

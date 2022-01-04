@@ -1,0 +1,244 @@
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp3.1\Project.csproj.AssemblyReference.cache
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp3.1\Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp3.1\Project.AssemblyInfoInputs.cache
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp3.1\Project.AssemblyInfo.cs
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp3.1\Project.csproj.CoreCompileInputs.cache
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp3.1\Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp3.1\Project.TagHelpers.input.cache
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp3.1\Project.TagHelpers.output.cache
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp3.1\Project.dll
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp3.1\Project.pdb
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\bin\Debug\netcoreapp3.1\web.config
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\bin\Debug\netcoreapp3.1\aws-beanstalk-tools-defaults.json
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\bin\Debug\netcoreapp3.1\Project.exe
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\bin\Debug\netcoreapp3.1\Project.deps.json
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\bin\Debug\netcoreapp3.1\Project.runtimeconfig.json
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\bin\Debug\netcoreapp3.1\Project.runtimeconfig.dev.json
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\bin\Debug\netcoreapp3.1\Project.dll
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\bin\Debug\netcoreapp3.1\Project.pdb
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\bin\Debug\netcoreapp3.1\Project.Views.dll
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\bin\Debug\netcoreapp3.1\Project.Views.pdb
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\bin\Debug\netcoreapp3.1\AWSSDK.Core.dll
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\bin\Debug\netcoreapp3.1\AWSSDK.DynamoDBv2.dll
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\bin\Debug\netcoreapp3.1\AWSSDK.Extensions.NETCore.Setup.dll
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\bin\Debug\netcoreapp3.1\AWSSDK.S3.dll
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp3.1\Project.RazorAssemblyInfo.cache
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp3.1\Project.RazorAssemblyInfo.cs
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp3.1\staticwebassets\Project.StaticWebAssets.Manifest.cache
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp3.1\staticwebassets\Project.StaticWebAssets.xml
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp3.1\scopedcss\bundle\Project.styles.css
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp3.1\Project.RazorCoreGenerate.cache
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp3.1\Razor\Views\Movie\Create.cshtml.g.cs
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp3.1\Razor\Views\Movie\Detail.cshtml.g.cs
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp3.1\Razor\Views\Movie\Home.cshtml.g.cs
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp3.1\Razor\Views\Movie\Index.cshtml.g.cs
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp3.1\Razor\Views\Movie\Login.cshtml.g.cs
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp3.1\Razor\Views\Movie\Upload.cshtml.g.cs
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp3.1\Project.RazorTargetAssemblyInfo.cache
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp3.1\Project.RazorTargetAssemblyInfo.cs
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp3.1\Project.Views.pdb
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp3.1\Project.csproj.CopyComplete
+C:\Users\Calvin\Downloads\VietCuongNguyen_JianyuLiu_Lab3 (2)\VietCuongNguyen_JianyuLiu_Lab3\Project\obj\Debug\netcoreapp3.1\Project.genruntimeconfig.cache
+C:\Users\Calvin\Desktop\T7\Project\bin\Debug\netcoreapp3.1\web.config
+C:\Users\Calvin\Desktop\T7\Project\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Calvin\Desktop\T7\Project\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Calvin\Desktop\T7\Project\bin\Debug\netcoreapp3.1\aws-beanstalk-tools-defaults.json
+C:\Users\Calvin\Desktop\T7\Project\bin\Debug\netcoreapp3.1\Project.exe
+C:\Users\Calvin\Desktop\T7\Project\bin\Debug\netcoreapp3.1\Project.deps.json
+C:\Users\Calvin\Desktop\T7\Project\bin\Debug\netcoreapp3.1\Project.runtimeconfig.json
+C:\Users\Calvin\Desktop\T7\Project\bin\Debug\netcoreapp3.1\Project.runtimeconfig.dev.json
+C:\Users\Calvin\Desktop\T7\Project\bin\Debug\netcoreapp3.1\Project.dll
+C:\Users\Calvin\Desktop\T7\Project\bin\Debug\netcoreapp3.1\Project.pdb
+C:\Users\Calvin\Desktop\T7\Project\bin\Debug\netcoreapp3.1\Project.Views.dll
+C:\Users\Calvin\Desktop\T7\Project\bin\Debug\netcoreapp3.1\Project.Views.pdb
+C:\Users\Calvin\Desktop\T7\Project\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Calvin\Desktop\T7\Project\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Calvin\Desktop\T7\Project\bin\Debug\netcoreapp3.1\AWSSDK.Core.dll
+C:\Users\Calvin\Desktop\T7\Project\bin\Debug\netcoreapp3.1\AWSSDK.DynamoDBv2.dll
+C:\Users\Calvin\Desktop\T7\Project\bin\Debug\netcoreapp3.1\AWSSDK.Extensions.NETCore.Setup.dll
+C:\Users\Calvin\Desktop\T7\Project\bin\Debug\netcoreapp3.1\AWSSDK.S3.dll
+C:\Users\Calvin\Desktop\T7\Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Calvin\Desktop\T7\Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Calvin\Desktop\T7\Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Calvin\Desktop\T7\Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Calvin\Desktop\T7\Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Calvin\Desktop\T7\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Calvin\Desktop\T7\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Calvin\Desktop\T7\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Calvin\Desktop\T7\Project\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Calvin\Desktop\T7\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Calvin\Desktop\T7\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Calvin\Desktop\T7\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Calvin\Desktop\T7\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Calvin\Desktop\T7\Project\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Calvin\Desktop\T7\Project\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Calvin\Desktop\T7\Project\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Calvin\Desktop\T7\Project\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Calvin\Desktop\T7\Project\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Calvin\Desktop\T7\Project\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Calvin\Desktop\T7\Project\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Calvin\Desktop\T7\Project\obj\Debug\netcoreapp3.1\Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Calvin\Desktop\T7\Project\obj\Debug\netcoreapp3.1\Project.AssemblyInfoInputs.cache
+C:\Users\Calvin\Desktop\T7\Project\obj\Debug\netcoreapp3.1\Project.AssemblyInfo.cs
+C:\Users\Calvin\Desktop\T7\Project\obj\Debug\netcoreapp3.1\Project.csproj.CoreCompileInputs.cache
+C:\Users\Calvin\Desktop\T7\Project\obj\Debug\netcoreapp3.1\Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Calvin\Desktop\T7\Project\obj\Debug\netcoreapp3.1\Project.RazorAssemblyInfo.cache
+C:\Users\Calvin\Desktop\T7\Project\obj\Debug\netcoreapp3.1\Project.RazorAssemblyInfo.cs
+C:\Users\Calvin\Desktop\T7\Project\obj\Debug\netcoreapp3.1\staticwebassets\Project.StaticWebAssets.Manifest.cache
+C:\Users\Calvin\Desktop\T7\Project\obj\Debug\netcoreapp3.1\staticwebassets\Project.StaticWebAssets.xml
+C:\Users\Calvin\Desktop\T7\Project\obj\Debug\netcoreapp3.1\scopedcss\bundle\Project.styles.css
+C:\Users\Calvin\Desktop\T7\Project\obj\Debug\netcoreapp3.1\Project.TagHelpers.input.cache
+C:\Users\Calvin\Desktop\T7\Project\obj\Debug\netcoreapp3.1\Project.TagHelpers.output.cache
+C:\Users\Calvin\Desktop\T7\Project\obj\Debug\netcoreapp3.1\Project.RazorCoreGenerate.cache
+C:\Users\Calvin\Desktop\T7\Project\obj\Debug\netcoreapp3.1\Razor\Views\Main\Form.cshtml.g.cs
+C:\Users\Calvin\Desktop\T7\Project\obj\Debug\netcoreapp3.1\Razor\Views\Main\Home.cshtml.g.cs
+C:\Users\Calvin\Desktop\T7\Project\obj\Debug\netcoreapp3.1\Razor\Views\Main\Index.cshtml.g.cs
+C:\Users\Calvin\Desktop\T7\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Calvin\Desktop\T7\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Calvin\Desktop\T7\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Calvin\Desktop\T7\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Calvin\Desktop\T7\Project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Calvin\Desktop\T7\Project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Calvin\Desktop\T7\Project\obj\Debug\netcoreapp3.1\Project.RazorTargetAssemblyInfo.cache
+C:\Users\Calvin\Desktop\T7\Project\obj\Debug\netcoreapp3.1\Project.RazorTargetAssemblyInfo.cs
+C:\Users\Calvin\Desktop\T7\Project\obj\Debug\netcoreapp3.1\Project.Views.pdb
+C:\Users\Calvin\Desktop\T7\Project\obj\Debug\netcoreapp3.1\Project.csproj.CopyComplete
+C:\Users\Calvin\Desktop\T7\Project\obj\Debug\netcoreapp3.1\Project.dll
+C:\Users\Calvin\Desktop\T7\Project\obj\Debug\netcoreapp3.1\Project.pdb
+C:\Users\Calvin\Desktop\T7\Project\obj\Debug\netcoreapp3.1\Project.genruntimeconfig.cache
+C:\Users\Calvin\Desktop\T7\Project\obj\Debug\netcoreapp3.1\Project.csproj.AssemblyReference.cache
+C:\Users\Calvin\Desktop\T7\Project\obj\Debug\netcoreapp3.1\Razor\Views\Main\List.cshtml.g.cs
+C:\Users\Calvin\Desktop\WebAPIs\Project\bin\Debug\netcoreapp3.1\web.config
+C:\Users\Calvin\Desktop\WebAPIs\Project\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Calvin\Desktop\WebAPIs\Project\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Calvin\Desktop\WebAPIs\Project\bin\Debug\netcoreapp3.1\aws-beanstalk-tools-defaults.json
+C:\Users\Calvin\Desktop\WebAPIs\Project\bin\Debug\netcoreapp3.1\Project.exe
+C:\Users\Calvin\Desktop\WebAPIs\Project\bin\Debug\netcoreapp3.1\Project.deps.json
+C:\Users\Calvin\Desktop\WebAPIs\Project\bin\Debug\netcoreapp3.1\Project.runtimeconfig.json
+C:\Users\Calvin\Desktop\WebAPIs\Project\bin\Debug\netcoreapp3.1\Project.runtimeconfig.dev.json
+C:\Users\Calvin\Desktop\WebAPIs\Project\bin\Debug\netcoreapp3.1\Project.dll
+C:\Users\Calvin\Desktop\WebAPIs\Project\bin\Debug\netcoreapp3.1\Project.pdb
+C:\Users\Calvin\Desktop\WebAPIs\Project\bin\Debug\netcoreapp3.1\Project.Views.dll
+C:\Users\Calvin\Desktop\WebAPIs\Project\bin\Debug\netcoreapp3.1\Project.Views.pdb
+C:\Users\Calvin\Desktop\WebAPIs\Project\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Calvin\Desktop\WebAPIs\Project\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Calvin\Desktop\WebAPIs\Project\bin\Debug\netcoreapp3.1\AWSSDK.Core.dll
+C:\Users\Calvin\Desktop\WebAPIs\Project\bin\Debug\netcoreapp3.1\AWSSDK.DynamoDBv2.dll
+C:\Users\Calvin\Desktop\WebAPIs\Project\bin\Debug\netcoreapp3.1\AWSSDK.Extensions.NETCore.Setup.dll
+C:\Users\Calvin\Desktop\WebAPIs\Project\bin\Debug\netcoreapp3.1\AWSSDK.S3.dll
+C:\Users\Calvin\Desktop\WebAPIs\Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Calvin\Desktop\WebAPIs\Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Calvin\Desktop\WebAPIs\Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Calvin\Desktop\WebAPIs\Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Calvin\Desktop\WebAPIs\Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Calvin\Desktop\WebAPIs\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Calvin\Desktop\WebAPIs\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Calvin\Desktop\WebAPIs\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Calvin\Desktop\WebAPIs\Project\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Calvin\Desktop\WebAPIs\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Calvin\Desktop\WebAPIs\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Calvin\Desktop\WebAPIs\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Calvin\Desktop\WebAPIs\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Calvin\Desktop\WebAPIs\Project\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Calvin\Desktop\WebAPIs\Project\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Calvin\Desktop\WebAPIs\Project\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Calvin\Desktop\WebAPIs\Project\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Calvin\Desktop\WebAPIs\Project\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Calvin\Desktop\WebAPIs\Project\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Calvin\Desktop\WebAPIs\Project\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Calvin\Desktop\WebAPIs\Project\obj\Debug\netcoreapp3.1\Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Calvin\Desktop\WebAPIs\Project\obj\Debug\netcoreapp3.1\Project.AssemblyInfoInputs.cache
+C:\Users\Calvin\Desktop\WebAPIs\Project\obj\Debug\netcoreapp3.1\Project.AssemblyInfo.cs
+C:\Users\Calvin\Desktop\WebAPIs\Project\obj\Debug\netcoreapp3.1\Project.csproj.CoreCompileInputs.cache
+C:\Users\Calvin\Desktop\WebAPIs\Project\obj\Debug\netcoreapp3.1\Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Calvin\Desktop\WebAPIs\Project\obj\Debug\netcoreapp3.1\staticwebassets\Project.StaticWebAssets.Manifest.cache
+C:\Users\Calvin\Desktop\WebAPIs\Project\obj\Debug\netcoreapp3.1\staticwebassets\Project.StaticWebAssets.xml
+C:\Users\Calvin\Desktop\WebAPIs\Project\obj\Debug\netcoreapp3.1\scopedcss\bundle\Project.styles.css
+C:\Users\Calvin\Desktop\WebAPIs\Project\obj\Debug\netcoreapp3.1\Project.RazorTargetAssemblyInfo.cache
+C:\Users\Calvin\Desktop\WebAPIs\Project\obj\Debug\netcoreapp3.1\Project.csproj.CopyComplete
+C:\Users\Calvin\Desktop\WebAPIs\Project\obj\Debug\netcoreapp3.1\Project.dll
+C:\Users\Calvin\Desktop\WebAPIs\Project\obj\Debug\netcoreapp3.1\Project.pdb
+C:\Users\Calvin\Desktop\WebAPIs\Project\obj\Debug\netcoreapp3.1\Project.genruntimeconfig.cache
+C:\Users\Calvin\Desktop\WebAPIs\Project\obj\Debug\netcoreapp3.1\Project.csproj.AssemblyReference.cache
+C:\Users\Calvin\Desktop\SVPlants_Challenge\WebAPIs\Project\bin\Debug\netcoreapp3.1\web.config
+C:\Users\Calvin\Desktop\SVPlants_Challenge\WebAPIs\Project\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Calvin\Desktop\SVPlants_Challenge\WebAPIs\Project\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Calvin\Desktop\SVPlants_Challenge\WebAPIs\Project\bin\Debug\netcoreapp3.1\aws-beanstalk-tools-defaults.json
+C:\Users\Calvin\Desktop\SVPlants_Challenge\WebAPIs\Project\bin\Debug\netcoreapp3.1\Project.exe
+C:\Users\Calvin\Desktop\SVPlants_Challenge\WebAPIs\Project\bin\Debug\netcoreapp3.1\Project.deps.json
+C:\Users\Calvin\Desktop\SVPlants_Challenge\WebAPIs\Project\bin\Debug\netcoreapp3.1\Project.runtimeconfig.json
+C:\Users\Calvin\Desktop\SVPlants_Challenge\WebAPIs\Project\bin\Debug\netcoreapp3.1\Project.runtimeconfig.dev.json
+C:\Users\Calvin\Desktop\SVPlants_Challenge\WebAPIs\Project\bin\Debug\netcoreapp3.1\Project.dll
+C:\Users\Calvin\Desktop\SVPlants_Challenge\WebAPIs\Project\bin\Debug\netcoreapp3.1\Project.pdb
+C:\Users\Calvin\Desktop\SVPlants_Challenge\WebAPIs\Project\bin\Debug\netcoreapp3.1\Project.Views.dll
+C:\Users\Calvin\Desktop\SVPlants_Challenge\WebAPIs\Project\bin\Debug\netcoreapp3.1\Project.Views.pdb
+C:\Users\Calvin\Desktop\SVPlants_Challenge\WebAPIs\Project\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Calvin\Desktop\SVPlants_Challenge\WebAPIs\Project\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Calvin\Desktop\SVPlants_Challenge\WebAPIs\Project\bin\Debug\netcoreapp3.1\AWSSDK.Core.dll
+C:\Users\Calvin\Desktop\SVPlants_Challenge\WebAPIs\Project\bin\Debug\netcoreapp3.1\AWSSDK.DynamoDBv2.dll
+C:\Users\Calvin\Desktop\SVPlants_Challenge\WebAPIs\Project\bin\Debug\netcoreapp3.1\AWSSDK.Extensions.NETCore.Setup.dll
+C:\Users\Calvin\Desktop\SVPlants_Challenge\WebAPIs\Project\bin\Debug\netcoreapp3.1\AWSSDK.S3.dll
+C:\Users\Calvin\Desktop\SVPlants_Challenge\WebAPIs\Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Calvin\Desktop\SVPlants_Challenge\WebAPIs\Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Calvin\Desktop\SVPlants_Challenge\WebAPIs\Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Calvin\Desktop\SVPlants_Challenge\WebAPIs\Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Calvin\Desktop\SVPlants_Challenge\WebAPIs\Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Calvin\Desktop\SVPlants_Challenge\WebAPIs\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Calvin\Desktop\SVPlants_Challenge\WebAPIs\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Calvin\Desktop\SVPlants_Challenge\WebAPIs\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Calvin\Desktop\SVPlants_Challenge\WebAPIs\Project\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Calvin\Desktop\SVPlants_Challenge\WebAPIs\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Calvin\Desktop\SVPlants_Challenge\WebAPIs\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Calvin\Desktop\SVPlants_Challenge\WebAPIs\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Calvin\Desktop\SVPlants_Challenge\WebAPIs\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Calvin\Desktop\SVPlants_Challenge\WebAPIs\Project\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Calvin\Desktop\SVPlants_Challenge\WebAPIs\Project\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Calvin\Desktop\SVPlants_Challenge\WebAPIs\Project\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Calvin\Desktop\SVPlants_Challenge\WebAPIs\Project\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Calvin\Desktop\SVPlants_Challenge\WebAPIs\Project\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Calvin\Desktop\SVPlants_Challenge\WebAPIs\Project\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Calvin\Desktop\SVPlants_Challenge\WebAPIs\Project\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Calvin\Desktop\SVPlants_Challenge\WebAPIs\Project\obj\Debug\netcoreapp3.1\Project.csproj.AssemblyReference.cache
+C:\Users\Calvin\Desktop\SVPlants_Challenge\WebAPIs\Project\obj\Debug\netcoreapp3.1\Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Calvin\Desktop\SVPlants_Challenge\WebAPIs\Project\obj\Debug\netcoreapp3.1\Project.AssemblyInfoInputs.cache
+C:\Users\Calvin\Desktop\SVPlants_Challenge\WebAPIs\Project\obj\Debug\netcoreapp3.1\Project.AssemblyInfo.cs
+C:\Users\Calvin\Desktop\SVPlants_Challenge\WebAPIs\Project\obj\Debug\netcoreapp3.1\Project.csproj.CoreCompileInputs.cache
+C:\Users\Calvin\Desktop\SVPlants_Challenge\WebAPIs\Project\obj\Debug\netcoreapp3.1\Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Calvin\Desktop\SVPlants_Challenge\WebAPIs\Project\obj\Debug\netcoreapp3.1\staticwebassets\Project.StaticWebAssets.Manifest.cache
+C:\Users\Calvin\Desktop\SVPlants_Challenge\WebAPIs\Project\obj\Debug\netcoreapp3.1\staticwebassets\Project.StaticWebAssets.xml
+C:\Users\Calvin\Desktop\SVPlants_Challenge\WebAPIs\Project\obj\Debug\netcoreapp3.1\scopedcss\bundle\Project.styles.css
+C:\Users\Calvin\Desktop\SVPlants_Challenge\WebAPIs\Project\obj\Debug\netcoreapp3.1\Project.RazorTargetAssemblyInfo.cache
+C:\Users\Calvin\Desktop\SVPlants_Challenge\WebAPIs\Project\obj\Debug\netcoreapp3.1\Project.csproj.CopyComplete
+C:\Users\Calvin\Desktop\SVPlants_Challenge\WebAPIs\Project\obj\Debug\netcoreapp3.1\Project.dll
+C:\Users\Calvin\Desktop\SVPlants_Challenge\WebAPIs\Project\obj\Debug\netcoreapp3.1\Project.pdb
+C:\Users\Calvin\Desktop\SVPlants_Challenge\WebAPIs\Project\obj\Debug\netcoreapp3.1\Project.genruntimeconfig.cache
